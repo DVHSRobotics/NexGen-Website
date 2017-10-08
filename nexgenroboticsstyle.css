@@ -11,6 +11,8 @@ body {
 header {
   background-color: black;
   border-radius: 10px;
+  position: fixed;
+  width: 98.7%;
   /*border: solid;
   border-radius: 10px;
   border-width: thin;
@@ -81,5 +83,5 @@ nav a:hover::before {
 }
 
 iframe {
-  padding-top: 30px;
+  padding-top: 100px;
 }
